@@ -43,10 +43,6 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/111
 http://167.114.156.136:25461/INFINITV/ZX89NM22/113
 #EXTINF:-1 , Azteca 7
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 , Azteca Uno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 , AZ Corazon
-http://167.114.156.136:25461/INFINITV/ZX89NM22/117
 #EXTINF:-1 , Las Estrellas
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 , Canal 5
@@ -64,11 +60,13 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 , Claro Sports
 http://190.6.202.162:8000/play/a014/index.m3u8
 #EXTINF:-1 , Tudn MX
-http://181.209.173.10:9019/play/a05s/index.m3u8
+
+#EXTINF:-1 , Tudn Usa
+
 #EXTINF:-1 , Discovery Familia
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
 #EXTINF:-1 , Bandamax
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
+
 #EXTINF:-1 , Cooking Channel
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/504
 #EXTINF:-1 , Unimas
